@@ -601,6 +601,32 @@ const resources = {
       select: 'Pilih Bahasa',
     },
   },
+  'fa-IR': {
+    translation: {
+      title: 'WiFi Card',
+      'desc.use':
+        'یک کارت ساده با اطلاعات ورود به سیستم WiFi خود چاپ کنید. آن را به یخچال بچسبانید ، آن را در کیف پول خود نگه دارید و ...',
+      'desc.privacy':
+        'اطلاعات WiFi شما هرگز به سرور ارسال نمی شود. در این وب سایت از ردیابی ، تجزیه و تحلیل یا اثر انگشت استفاده نمی شود. مشاهده کنید : ',
+      'desc.source': 'سورس کد',
+      'wifi.login': 'ورود به WIFI',
+      'wifi.name': 'نام شبکه',
+      'wifi.name.placeholder': 'نام شبکه WiFi',
+      'wifi.password': 'رمز عبور',
+      'wifi.password.placeholder': 'پسورد',
+      'wifi.password.hide': 'قبل از چاپ فیلد رمز عبور را مخفی کن',
+      'wifi.password.encryption': 'نوع رمزنگاری',
+      'wifi.password.encryption.none': 'None',
+      'wifi.tip':
+        "دوربین تلفن خود را به سمت QR Code جهت اتصال خودکار قرار دهید",
+      'wifi.alert.name': 'نام شبکه نمیتواند خالی باشد',
+      'wifi.alert.password.length.5': 'رمز عبور حداقل باید 5 کاراکتر داشته باشد',
+      'wifi.alert.password.length.8': 'رمز عبور حداقل باید 8 کاراکتر داشته باشد',
+      'button.rotate': 'چرخواندن',
+      'button.print': 'پرینت',
+      select: 'انتخاب زبان',
+    },
+  },
   ko: {
     translation: {
       title: 'WiFi 카드',
